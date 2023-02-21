@@ -14,7 +14,7 @@ function SavedMeals({ savedMeal }) {
           ))}
         </div>
       ) : (
-        <h2 className="md:text-2xl md:text-start text-center text-[#e9b08e]">
+        <h2 className="md:text-2xl text-center text-[#e9b08e]">
           You have no saved Meals.
         </h2>
       )}
