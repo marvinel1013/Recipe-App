@@ -9,7 +9,7 @@ function Footer() {
         Find the perfect meal recipe for you
       </span>
       <small className="text-[#dbcdb5]">
-        © “Meals Recipe by Marvinel” | 2022 All right reserved.
+        © “Meals Recipe by Marvinel” | 2023 All right reserved.
       </small>
     </div>
   );
